@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6f0035/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說太子刷護經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T12/T12n0343.xml
+    old_id: T12n0343
+hash: sha256:6ee02a3588bd4bf31748cc6464b2b3a19820472ddef7b07c6421949f10e50fec
