@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6f0035/v1
 canonical_location: https://kanripo.org/bkk/KR6f0035/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 佛說太子刷護經
   identifiers:
@@ -34,10 +34,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6f0035_000.yaml, hash: 'sha256:6ee02a3588bd4bf31748cc6464b2b3a19820472ddef7b07c6421949f10e50fec'}
-  - {seq: 1, filename: KR6f0035_001.yaml, hash: 'sha256:3d31a292dbcf6f8a23ffc3c9d2122eddd4b28a27eb0df83464044a17966dc9a4'}
+  - {seq: 1, filename: KR6f0035_001.yaml, hash: 'sha256:0147aea7a0a87ee5f42536423d67a443c73b222abad66a6f84709955bf83b70a'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6f0035_000.markers.yaml, hash: 'sha256:31baf56ce32605adf871bdb23a7d634b6f4b764cedd63c6091dbd19dd02dcc0d'}
-  - {seq: 1, role: markers, filename: assets/KR6f0035_001.markers.yaml, hash: 'sha256:fa94049b545c549abf524e6febb0b11676410417c5a9dcb7b18dc1189bea2112'}
+  - {seq: 1, role: markers, filename: assets/KR6f0035_001.markers.yaml, hash: 'sha256:d798777ee58c8d11819e0e953ad85ef3db65b2f85cfa980042ca1bab070f657a'}
 table_of_contents:
 - ref:
     seq: 1
@@ -49,4 +49,7 @@ table_of_contents:
   label: 佛說太子刷護經一卷
   type: juan
   level: 1
-hash: sha256:869d7c08ffe1930b0bf0f95657852621b65c3ed314d0beffdcc4c3e4d853a42d
+hash: sha256:d05a832494f5cd4f4c28e6275e608469e795f4dae53f58983249f8f790920394
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
